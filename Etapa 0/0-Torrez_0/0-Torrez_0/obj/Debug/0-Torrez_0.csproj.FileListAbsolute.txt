@@ -1,0 +1,6 @@
+c:\users\usuario\documents\EyAD-2025\Etapa 0\0-Torrez_0\0-Torrez_0\bin\Debug\0-Torrez_0.exe.config
+c:\users\usuario\documents\EyAD-2025\Etapa 0\0-Torrez_0\0-Torrez_0\bin\Debug\0-Torrez_0.exe
+c:\users\usuario\documents\EyAD-2025\Etapa 0\0-Torrez_0\0-Torrez_0\bin\Debug\0-Torrez_0.pdb
+c:\users\usuario\documents\EyAD-2025\Etapa 0\0-Torrez_0\0-Torrez_0\obj\Debug\0-Torrez_0.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\EyAD-2025\Etapa 0\0-Torrez_0\0-Torrez_0\obj\Debug\0-Torrez_0.exe
+c:\users\usuario\documents\EyAD-2025\Etapa 0\0-Torrez_0\0-Torrez_0\obj\Debug\0-Torrez_0.pdb
