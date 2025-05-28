@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\intento\AyED-2025\Etapa 1\1-Torrez_11\1-Torrez_11\bin\Debug\1-Torrez_11.exe.config
+C:\Users\alumno\Desktop\intento\AyED-2025\Etapa 1\1-Torrez_11\1-Torrez_11\bin\Debug\1-Torrez_11.exe
+C:\Users\alumno\Desktop\intento\AyED-2025\Etapa 1\1-Torrez_11\1-Torrez_11\bin\Debug\1-Torrez_11.pdb
+C:\Users\alumno\Desktop\intento\AyED-2025\Etapa 1\1-Torrez_11\1-Torrez_11\obj\Debug\1-Torrez_11.exe
+C:\Users\alumno\Desktop\intento\AyED-2025\Etapa 1\1-Torrez_11\1-Torrez_11\obj\Debug\1-Torrez_11.pdb
