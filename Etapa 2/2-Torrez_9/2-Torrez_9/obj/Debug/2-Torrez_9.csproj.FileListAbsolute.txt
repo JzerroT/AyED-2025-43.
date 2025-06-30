@@ -1,0 +1,9 @@
+c:\users\alumno\documents\visual studio 2015\Projects\2-Torrez_9\2-Torrez_9\bin\Debug\2-Torrez_9.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\2-Torrez_9\2-Torrez_9\bin\Debug\2-Torrez_9.exe
+c:\users\alumno\documents\visual studio 2015\Projects\2-Torrez_9\2-Torrez_9\bin\Debug\2-Torrez_9.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\2-Torrez_9\2-Torrez_9\obj\Debug\2-Torrez_9.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\2-Torrez_9\2-Torrez_9\obj\Debug\2-Torrez_9.exe
+c:\users\alumno\documents\visual studio 2015\Projects\2-Torrez_9\2-Torrez_9\obj\Debug\2-Torrez_9.pdb
+H:\AyED-2025\Etapa 2_2\2-Torrez_9\2-Torrez_9\bin\Debug\2-Torrez_9.exe.config
+H:\AyED-2025\Etapa 2_2\2-Torrez_9\2-Torrez_9\obj\Debug\2-Torrez_9.exe
+H:\AyED-2025\Etapa 2_2\2-Torrez_9\2-Torrez_9\obj\Debug\2-Torrez_9.pdb
