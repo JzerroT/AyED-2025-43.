@@ -1,0 +1,9 @@
+c:\users\omen\onedrive\documentos\AyED-2025\Etapa 2\2-Torrez_3\2-Torrez_3\bin\Debug\2-Torrez_3.exe.config
+c:\users\omen\onedrive\documentos\AyED-2025\Etapa 2\2-Torrez_3\2-Torrez_3\bin\Debug\2-Torrez_3.exe
+c:\users\omen\onedrive\documentos\AyED-2025\Etapa 2\2-Torrez_3\2-Torrez_3\bin\Debug\2-Torrez_3.pdb
+c:\users\omen\onedrive\documentos\AyED-2025\Etapa 2\2-Torrez_3\2-Torrez_3\obj\Debug\2-Torrez_3.csprojResolveAssemblyReference.cache
+c:\users\omen\onedrive\documentos\AyED-2025\Etapa 2\2-Torrez_3\2-Torrez_3\obj\Debug\2-Torrez_3.exe
+c:\users\omen\onedrive\documentos\AyED-2025\Etapa 2\2-Torrez_3\2-Torrez_3\obj\Debug\2-Torrez_3.pdb
+H:\AyED-2025\Etapa 2\2-Torrez_3\2-Torrez_3\bin\Debug\2-Torrez_3.exe.config
+H:\AyED-2025\Etapa 2\2-Torrez_3\2-Torrez_3\obj\Debug\2-Torrez_3.exe
+H:\AyED-2025\Etapa 2\2-Torrez_3\2-Torrez_3\obj\Debug\2-Torrez_3.pdb
