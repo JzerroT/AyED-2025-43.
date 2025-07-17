@@ -1,0 +1,9 @@
+C:\Users\alumno\Desktop\yatt\1-Torrez_15\1-Torrez_15\bin\Debug\1-Torrez_15.exe.config
+C:\Users\alumno\Desktop\yatt\1-Torrez_15\1-Torrez_15\obj\Debug\1-Torrez_15.csprojResolveAssemblyReference.cache
+D:\AyED-2025\Etapa 1_3\1-Torrez_15\1-Torrez_15\bin\Debug\1-Torrez_15.exe.config
+H:\AyED-2025\Etapa 1_3\1-Torrez_15\1-Torrez_15\bin\Debug\1-Torrez_15.exe.config
+H:\AyED-2025\Etapa 1_3\1-Torrez_15\1-Torrez_15\bin\Debug\1-Torrez_15.exe
+H:\AyED-2025\Etapa 1_3\1-Torrez_15\1-Torrez_15\bin\Debug\1-Torrez_15.pdb
+H:\AyED-2025\Etapa 1_3\1-Torrez_15\1-Torrez_15\obj\Debug\1-Torrez_15.csprojResolveAssemblyReference.cache
+H:\AyED-2025\Etapa 1_3\1-Torrez_15\1-Torrez_15\obj\Debug\1-Torrez_15.exe
+H:\AyED-2025\Etapa 1_3\1-Torrez_15\1-Torrez_15\obj\Debug\1-Torrez_15.pdb
